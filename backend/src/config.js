@@ -37,7 +37,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://snacking bunnies.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://snackingbunnies.xyz", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
